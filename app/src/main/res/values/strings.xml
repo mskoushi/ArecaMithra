@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ArecaMithra</string>
+    <string name="home_title">ArecaMithra</string>
+    <string name="slogan">at your own hand</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="anabe_symtoms">Initially there is yellowing of outer whorl of leaves gradually extending to inner whorls.\nAs the disease progresses the entire crown becomes yellow leaving only the spear leaf green.\n\nIn the advanced stages, spindle also gets dried up and finally the crown drop off leaving the base stem. At the basal portion of the stem small dull brown spots occurs which later coalesce to bigger patches at 1 m height of the trunk from ground level.\n\nAt acute stage brown gummy liquid oozes out and bracket shaped fruiting bodies formed at the base of the trunk after death of palms.Rotting of roots and internal tissues of the basal portion of the stem occurs and it is difficult to identify the disease in the early stages of infection.</string>
+    string>
+
+    <string name="anabe_1">Trenching of 30 cm width and 60 cm depth around the diseased palm and drenching with fungicides will help to arrest the further spread of the disease.</string>
+    <string name="anabe_2">Field sanitation measures like cutting and burning of the dead palms along with bole and roots should be strictly followed.</string>
+    <string name="anabe_3">Improved drainage facilities will reduce the disease spread.</string>
+    <string name="anabe_4">Trichoderma enriched neem cake application (2 kg/palm/year) helps in disease management.</string>
+    <string name="anabe_5">Drenching the rhizosphere with Hexaconazole (2 ml/l) @ 15-20 l/palm along with root feeding of Hexaconazole (2 ml/l) @ 125ml/palm at quarterly intervals will help in disease management.</string>
+
+
+    <string name="summerspot_symptom">The symptoms appear as yellow specks on the leaf lamina. These spots later coalesce to form bigger lesions with typical yellow halo around. Severe infection causes stunted growth or death of the seedlings.</string>
+    <string name="winterspot_symptom">This infection is restricted to three to four leaves of the outer whorl. Symptoms develop as small brown to dark brown or black round spots with varied sizes. Spots are characterized by yellow halo around and in advanced stages they form blighted patches. Severe infection causes drying, drooping, and shredding of leaves.</string>
+
+    <string name="spot1">Collection and burring of diseased leaves should be strictly followed to reduce the inoculum load.</string>
+    <string name="spot2">Leaf spots seen during summer can be minimized by providing proper shade and spraying with Zineb 78WP @ 3 gm/litre of water.</string>
+    <string name="spot3">Leaf spots seen during monsoon season could be controlled effectively by spraying the leaves with Mancozeb 75WP @ 3 gm/litre of water</string>
+
+
+    <string name="dieback">Yellowing starts from the tip of the rachillae towards the main rachis and spreads downwards. Later, it turns dark brown followed by drying, a condition called as \'die_back’. Subsequent spread of yellowing and discoloration induces shedding of female flowers. Though it is occurring throughout the year, becomes severe in February to May</string>
+    <string name="dieback1">Field sanitation practices include removal and burning of infected dried bunches to reduce the inoculum level in the garden should be strictly followed.
+</string>
+    <string name="dieback2">Spraying of Mancozeb 75WP (3 g/litre of water) or Zineb 78WP (4g/ litre of water) while opening of female flowers will reduces the disease incidence. A second spraying should be taken up after 20-25 days.</string>
+
+    <string name="mite_symptoms">Both nymphs and adults colonize on the lower leaf surface and suck the sap resulting in the formation of yellow speckles or blotches which coalesce to give a bronzed appearance to the leaves.\n\nInfestation of red mite can be easily identify based on presence of reddish colonies of mites on lower surface of leaves. Reddish/pinkish stains appears after rubbing the infested leaves on fingers/palm.\n\nInfestation of white mites can be identify based on presence of  whitish webs on lower surface of leaves.In case of severe infestation, the leaves become yellow and dry up later.</string>
+    <string name="mite1">Provide proper irrigation.</string>
+    <string name="mite2">Cut and remove the dried leaves due to mite attack.</string>
+    <string name="mite3">Conserve predatory mites Amblyseius channabasavanni which will check the population of phytophagous mites.</string>
+    <string name="mite4">Application of neem oil emulsion (5 ml/litre water) two-times at 15 days intervals</string>
+
+    <string name="mundu_siri_symtoms">Bud rot is characterized by initial yellowing of spindle leaf, rotting of growing bud which can be drawn out easily with a gentle pull, followed by infection in surrounding leaves.\n\nAs the disease advances, adjacent leaves also showing yellowing,
+drooping and nally falling off completely by leaving the bare stem.\n\nSecondary pathogens colonization of the infected portion converts it into a slimy mass, which emits an offensive odour.</string>
+    <string name="mundu_siri1">Bud rot can be managed if the affected palms are treated in the initial stages of infection.</string>
+    <string name="mundu_siri2">Field sanitation practices like removal and destruction of fruit rot affected, dried bunches, shed nuts and the crowns of the palms affected by bud rots may help to reduce the year round survival of the pathogen inoculum.</string>
+    <string name="mundu_siri3">To prevent the spread of infection, spray 1% Bordeaux mixture to the crown of the affected and surrounding trees.</string>
+    <string name="mundu_siri4">Smearing with 10% Bordeaux paste after removal of the affected tissues is effective in saving bud rot affected palms.</string>
+    <string name="mundu_siri5">Regular monitoring of treated palms is needed for checking further advancement of symptoms.</string>
+
+    <string name="redpalm_weevil_symptoms">Grubs bore through the soft tissues of the stem and feeds on internal content. Hence, round circular holes can be observed on the stem of infested palms. Yellowing, wilting and drying of spindle and innermost leaves are the initial symptom of attack.\n\nIf the infested palms are closely observed, bore holes with or without extruded fibrous tissues can be found in green regions of stem near to crown.\n\nIf palm is more succulent, oozing of brownish gummy exudates occurs from freshly made holes. Crown of the severely infested palms produces foul smell.</string>
+    <string name="redpalm_weevil1">Strict and regular surveillance to notice the incidence of RPW in the eld is utmost important for timely management</string>
+    <string name="redpalm_weevil2">Avoid causing any mechanical injury to the palm as it attracts adult for oviposition</string>
+    <string name="redpalm_weevil3">Periodical crown cleaning to remove dried and disease affected leaves.</string>
+    <string name="redpalm_weevil4">Timely treatment of bud/crown rot infected palms will help in reduction of RPW incidence</string>
+
+    <string name="scale_insect_symptoms">The scale insect sucks sap from leaves, rachillae and nuts that leads to yellowing of nuts Severe infestation leads to withering and shedding of nuts.</string>
+    <string name="scale_insect1">Temperature favors the population build up of scales, hence provide proper shade to infested gardens</string>
+    <string name="scale_insect2">Conservation and augmentation of lady bird beetle, Chilocorus nigrita</string>
+    <string name="scale_insect3">If infestation noticed, Neem oil emulsion @ 5ml/litre of water two- times in 15 days intervals can be sprayed.</string>
+
+<string name="stem_bleeding_symptoms">On younger palms- Oozing of a yellowish brown resinous exudation from infested stems.Small, pinhead size holes can be seen after removal of the resinous exudation.On older/stressed/diseased palms- Extrusion of sawdust frass in the form of loose, cylindrical strings.</string>
+    <string name="stem_bleeding1">Removal of resinous exudation/sawdust frass and injection of Chlorpyriphos 20EC@ 5ml/litre in bored holes. Cover the injected holes with wet soil to improve the efciency of treatment.</string>
+
+<string name="i1">Welcome to Arecamitra - Arecanet Disease Detection using Machine Learning! We\'re glad you\'re here and ready to upload images for disease detection.\n\nWhen uploading images for disease detection in Arecamitra - Arecanet Disease Detection using Machine Learning, it\'s important to follow certain do\'s and don\'ts:</string>
+<string name="i2">\u25CF Use high-quality images and capture clear and well-lit images of the arecanut plants, showcasing the relevant areas of interest without any irrelevant objects or backgrounds.</string>
+<string name="i3">\u25CF Use images that are representative of the plant\'s typical appearance, including leaves, stems, and fruits, if applicable.\n\u25CF Use images that are free from watermarks, logos, annotations, or other artifacts that may interfere with disease detection.</string>
+<string name="i4">\u25CF Don\'t use images with low resolution or poor image quality, as it may result in inaccurate analysis.\n\u25CF Don\'t use images with heavy noise, distortion, or blurriness, as it may hinder disease detection.\n\u25CF Don\'t use images that do not capture the relevant areas of interest or have irrelevant objects or backgrounds.\n\u25CF Don\'t use images with watermarks, logos, annotations, or other artifacts that may interfere with the analysis.</string>
+<string name="i5">\u25CF Don\'t upload images with multiple object / plants</string>
+<string name="i6">Follow these guidelines to ensure you upload your images correctly:\n\n1. This application supports only JPEG and PNG image format for detection of disease.\n2. Images should be clear and well-lit, with minimal noise and distortion.</string>
+<string name="i7">3. Navigate to the Arecamitra - Arecanut Disease Detection platform and locate the find disease option.\n4. Click on the upload button and select the images you want to upload from your local device or you can directly take the image through camera.\n5. Please wait for the upload process to complete, This may take some time, depending on the complexity of the machine learning algorithms and the number of images uploaded.\n6. Once the analysis is complete, you will receive the results, which may include disease detection reports, visualizations, or other relevant information.</string>
+</resources>

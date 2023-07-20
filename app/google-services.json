@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371707565728",
+    "project_id": "arecamithra-be713",
+    "storage_bucket": "arecamithra-be713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371707565728:android:38f05cb64392679113dbc5",
+        "android_client_info": {
+          "package_name": "com.example.arecamithra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371707565728-00s43qko6etmo0e8ufg3up9p4tefppm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xSME_IPmf0A92Vxf3FwhUed8f5z0zTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371707565728-00s43qko6etmo0e8ufg3up9p4tefppm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
